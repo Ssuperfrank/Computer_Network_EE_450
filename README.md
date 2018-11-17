@@ -1,6 +1,8 @@
 # EE450
 socket programming
+
 a. Full name: jiaqi fan
+
 b. Student ID: 7045273947
  
 c. What you have done in the assignment. 
