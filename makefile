@@ -1,6 +1,4 @@
 all: 
-	
-	
 	g++ -o serverA serverA.cpp
 	g++ -o serverB serverB.cpp
 	g++ -o serverC serverC.cpp
@@ -10,10 +8,6 @@ all:
 	g++ -o client client.cpp	
 
 	g++ -o monitor monitor.cpp
-	
-
-
-
 
 ServerA:
 	./serverA
