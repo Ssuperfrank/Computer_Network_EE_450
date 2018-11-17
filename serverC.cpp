@@ -98,7 +98,7 @@ void compute()
 	double n = pow(10,((noise - 30)/10)); 
 	double c = bandwidth * log2(1+s/n);
 
-	tran_delay = (size /c) * 1000; 
+	tran_delay = (size /c) / 1000; 
 	prop_delay = (length / velocity) /10;
 	end_delay = tran_delay + prop_delay;
 }
