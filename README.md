@@ -3,7 +3,7 @@ socket programming
 
 a. Full name: jiaqi fan
 
-b. Student ID: 7045273947
+b. Student ID: 
  
 c. What you have done in the assignment. 
 	In the socket programming project, I made simulations of transmiiting messages between client, server and aws by TCP and UDP. 
