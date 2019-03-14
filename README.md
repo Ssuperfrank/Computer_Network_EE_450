@@ -12,8 +12,8 @@ c. What you have done in the assignment.
 
 
 d. Implementations
+	
 	1.Client
-
 	* create tcp socket to connect the server of aws
 	* send link id, size, power to aws
 	* receive the final result from aws
